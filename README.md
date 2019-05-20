@@ -14,4 +14,11 @@ Now go to admin -> extensions -> extensions, select modules from dropdown list, 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
+## Front End Demo
 
+![Demo](https://github.com/settysantu/banner-grid/blob/master/Screenshots/1.png)
+
+
+## Back End Demo(Admin)
+
+![Admin Demo](https://github.com/settysantu/banner-grid/blob/master/Screenshots/5.png)
